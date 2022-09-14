@@ -10,7 +10,7 @@ When it comes to product managers, two things are the key:
 
 ## Intersection of Business, Users, and Technology
 
-![](RackMultipart20220914-1-z6aali_html_2d7c4ffd6b32a461.jpg)
+![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture1.jpg)
 
 Product managers are often said to be at the intersection of the users, business, and technology. There is a reason for this - in fact, there are three reasons:
 
@@ -58,9 +58,8 @@ Note the differences:
 
 There is no industry-wide definition of Program Manager. Usually, the term is applied to a person who supervises the effort of multiple groups in a company who must coordinate the delivery of service and/or product.
 
-![](RackMultipart20220914-1-z6aali_html_c5ca9c1a0ccee318.png)
+![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture2.png)
 
-## ![Shape1](RackMultipart20220914-1-z6aali_html_237499165a11f2b9.gif)
 
 ##
 
@@ -81,7 +80,7 @@ Project managers are responsible for keeping a project on schedule, within scope
 
 Program managers generally oversee a number of projects and project managers. Like the Product Manager, who provides strategic guidance for Product Owners (who oversee a feature), Program Managers provide that guidance for Project Managers (who oversee a project).
 
-![](RackMultipart20220914-1-z6aali_html_8e04c07320d7fa50.png)
+![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture3.png)
 
 This chart shows the key differences between 4 commonly confused roles
 
@@ -93,7 +92,6 @@ Product analysts are considered a stepping stone to the product manager role. He
 
 As you might have guessed from the title, product designers focus primarily on design. Also called UX designers, information architects (IA), UI designers, experience designers (XD), and many others, they are responsible for understanding the user experience and designing the look and flow. Product designers work on or with the product team.
 
-### ![Shape2](RackMultipart20220914-1-z6aali_html_237499165a11f2b9.gif)
 
 ##
 
