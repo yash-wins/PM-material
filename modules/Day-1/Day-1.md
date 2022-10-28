@@ -1,5 +1,4 @@
-##
-## **What is a Product Manager?**
+﻿**What is a Product Manager?**
 
 The modern product manager is someone who solves business problems by focusing his or her efforts on a user while working with a development team to create impactful solutions.
 
@@ -8,9 +7,9 @@ When it comes to product managers, two things are the key:
 - **Opportunity Identification** - have we found a problem that many users want us to solve and will pay for it?
 - **Solution Discovery** - have we understood the problem well enough to build a solution to that problem?
 
-## Intersection of Business, Users, and Technology
+Intersection of Business, Users, and Technology
 
-![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture1.jpg)
+![](Aspose.Words.648305c7-39ee-4960-8716-56f9c0eb003a.001.jpeg)
 
 Product managers are often said to be at the intersection of the users, business, and technology. There is a reason for this - in fact, there are three reasons:
 
@@ -18,34 +17,33 @@ Product managers are often said to be at the intersection of the users, business
 - **Business** - Do you understand your business, its mission, and vision well enough to execute a disruptive change in the market?
 - **Technology** - Do you have the aptitude and influence to guide a development team to build the solution that users and the business need?
 
-## Topic 2
+Topic 2
 
-## Product manager vs. Other Roles
+Product manager vs. Other Roles
 
 Product management is an evolving field and highly competitive. The Product Manager role has responsibilities that appear to overlap other job titles: you may ask if you do the same things as a Project Manager, a Program Manager, or Product Owner. Below, we break down the common roles to illustrate how they compare to the Product Manager.
 
-## What is a Product Manager or Product Owner?
+What is a Product Manager or Product Owner?
 
 A product is an artifact that is manufactured or refined for sale. Often this is an object, a physical item or commodity; in Digital Product Management, the product is most often a digital system (e.g., mobile app) or a physical product that incorporates a digital system (e.g., point-of-sale terminal).
 
-Two job titles used commonly in this field are Product Manager and Product Owner
-.
+Two job titles used commonly in this field are Product Manager and Product Owner[^1].
 
 The Product Owner role was described first by the authors of Scrum and Extreme Programming. The two terms are used interchangeably by many: though it can be said the term Product Manager is used more broadly in the industry; and the term Product Owner is used by companies who deliberately advertise that they practice Scrum.
 
 Both terms imply a product (not project) orientation in the company.
 
-### Other Related Roles
+Other Related Roles
 
-#### Product Analyst
+Product Analyst
 
 The Product Analyst role is considered a stepping stone to the Product Manager role. Heavy on research, interviews, and data analytics, they often support Product Managers by providing them the data needed to make decisions.
 
-#### Product Designer
+Product Designer
 
 As you might have guessed from the title, Product Designers focus primarily on design. Also called UX Designers (User Experience), UI Designers (User Interface), XD (Experience Designers), Information architects (IA), and many others, they are responsible for understanding the user experience and designing the look and flow. Product designers work on or with the product team.
 
-## What is a Project Manager?
+What is a Project Manager?
 
 A project is a temporary effort to create a unique product, service or result. All projects have a beginning and an end. A Project Manager is one who manages personnel, a budget, and a schedule of activities/tasks.
 
@@ -54,17 +52,13 @@ Note the differences:
 - A project is a temporary endeavor like the construction of a house or bridge. A product is not temporary. For example, the Android operating system was released in 2008 and development of the product continues to this day.
 - A project has a known end state: the house. A product has no known end state: new features are added to Android continually.
 
-## What is a Program Manager?
+What is a Program Manager?
 
 There is no industry-wide definition of Program Manager. Usually, the term is applied to a person who supervises the effort of multiple groups in a company who must coordinate the delivery of service and/or product.
 
-![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture2.png)
+![](Aspose.Words.648305c7-39ee-4960-8716-56f9c0eb003a.002.jpeg)
 
-
-##
-
-
-## Product Manager vs. Other Roles
+Product Manager vs. Other Roles![](Aspose.Words.648305c7-39ee-4960-8716-56f9c0eb003a.003.png)
 
 Since product management is still an up-and-coming field, many are unfamiliar with what product managers do. People may ask you if you do the same things as a project manager, a program manager, or a product owner. The short answer is no. Although they might overlap in some areas, all of these roles are distinctly different from the one played by the Product Manager. Below, we break a few of the more common roles down and show how they interact with product management.
 
@@ -80,7 +74,7 @@ Project managers are responsible for keeping a project on schedule, within scope
 
 Program managers generally oversee a number of projects and project managers. Like the Product Manager, who provides strategic guidance for Product Owners (who oversee a feature), Program Managers provide that guidance for Project Managers (who oversee a project).
 
-![](https://github.com/yash-wins/PM-material/blob/main/modules/img/Picture3.png)
+![](Aspose.Words.648305c7-39ee-4960-8716-56f9c0eb003a.004.png)
 
 This chart shows the key differences between 4 commonly confused roles
 
@@ -90,15 +84,11 @@ Product analysts are considered a stepping stone to the product manager role. He
 
 **Product Designer**
 
-As you might have guessed from the title, product designers focus primarily on design. Also called UX designers, information architects (IA), UI designers, experience designers (XD), and many others, they are responsible for understanding the user experience and designing the look and flow. Product designers work on or with the product team.
+As you might have guessed from the title, product designers focus primarily on design. Also called UX designers, information architects (IA), UI designers, experience designers (XD), and many others, they are responsible for understanding the user experience and designing the look and flow. Product designers work on or with the product team.![](Aspose.Words.648305c7-39ee-4960-8716-56f9c0eb003a.003.png)
 
+Job Descriptions
 
-##
-
-
-## Job Descriptions
-
-Below, we've listed some points that you might find in the job descriptions of each of these roles. You don't need to memorize them or even read through all of them, but if you're looking for a job and aren't really sure if it's a product manager role, you can refer to this list to get an idea.
+Below, we’ve listed some points that you might find in the job descriptions of each of these roles. You don’t need to memorize them or even read through all of them, but if you’re looking for a job and aren’t really sure if it’s a product manager role, you can refer to this list to get an idea.
 
 **Product Manager**
 
@@ -122,6 +112,8 @@ Below, we've listed some points that you might find in the job descriptions of e
 **Product Analyst**
 
 - The ability to conduct market research
+
+
 - Excellent writing skills to prepare detailed reports
 - Ability to synthesize complex data into actionable goals
 - Critical thinking skills to recommend original and productive ideas
@@ -132,12 +124,12 @@ Below, we've listed some points that you might find in the job descriptions of e
 - Daily program management throughout the program lifecycle
 - Define the program governance
 - Plan the overall program and monitor the progress
-- Manage the program's budget
+- Manage the program’s budget
 - Manage risks and issues and take corrective measurements
 - Coordinate the projects and their interdependencies
 - Manage and utilize resources across projects
-- Manage stakeholders' communication
-- Align deliverables to the program's outcome
+- Manage stakeholders’ communication
+- Align deliverables to the program’s outcome
 - Manage the main program documents
 
 **Product Designer**
@@ -153,40 +145,37 @@ Below, we've listed some points that you might find in the job descriptions of e
 - Communicating the Product Vision to and within the community of stakeholders and development team(s).
 - Managing and making visible the product backlog, or the prioritized list of requirements for future product development.
 - Deciding the Release Plan (release sequence) and coordinating the business around releases, they do this by changing the order of items in the product backlog.
-
-**Project Manager**
-
 1. **Initiating**
-  1. Developing a project charter
-  2. Identifying stakeholders
+1. Developing a project charter
+1. Identifying stakeholders
 2. **Planning**
-  1. Developing a project management plan
-  2. Scope Management and requirements gathering
-  3. Planning, defining, and developing schedules, activities, estimating resources and activity durations
-  4. Planning and estimating costs, and determining budgets
-  5. Human Resource Management: Planning and identifying human resource needs
-  6. Communications Management: Planning communications
-  7. Risk management: Planning for and identifying potential risks, performing qualitative and quantitative risk analysis, and planning risk mitigation strategies
-  8. Procurement management: Planning for and identifying required procurements
-  9. Stakeholder management: Planning for stakeholder expectations
+1. Developing a project management plan
+1. Scope Management and requirements gathering
+1. Planning, defining, and developing schedules, activities, estimating resources and activity durations
+1. Planning and estimating costs, and determining budgets
+1. Human Resource Management: Planning and identifying human resource needs
+1. Communications Management: Planning communications
+1. Risk management: Planning for and identifying potential risks, performing qualitative and quantitative risk analysis, and planning risk mitigation strategies
+1. Procurement management: Planning for and identifying required procurements
+1. Stakeholder management: Planning for stakeholder expectations
 3. **Executing**
-  1. Integration Management: Directing and managing all work for the project
-  2. Quality Management: Performing all aspects of managing quality
-  3. Human Resource Management: Selecting, developing, and managing the project team
-  4. Communications Management: Managing all aspects of communications
-  5. Procurement Management: Take action on securing necessary procurements
-  6. Stakeholder Management: Managing all stakeholder expectations
+1. Integration Management: Directing and managing all work for the project
+1. Quality Management: Performing all aspects of managing quality
+1. Human Resource Management: Selecting, developing, and managing the project team
+1. Communications Management: Managing all aspects of communications
+1. Procurement Management: Take action on securing necessary procurements
+1. Stakeholder Management: Managing all stakeholder expectations
 4. **Monitoring and controlling**
-  1. Integration Management: Monitoring and controlling the project work and managing any necessary changes
-  2. Scope Management: Validating and controlling the scope of the project
-  3. Time Management: Controlling the scope of the project
-  4. Costs Management: Controlling project costs
-  5. Quality Management: Controlling the quality of deliverables
-  6. Communications Management: Controlling all team and stakeholder communications
-  7. Procurement Management: Controlling procurements
-  8. Stakeholder Management: Controlling stakeholder engagements
+1. Integration Management: Monitoring and controlling the project work and managing any necessary changes
+1. Scope Management: Validating and controlling the scope of the project
+1. Time Management: Controlling the scope of the project
+1. Costs Management: Controlling project costs
+1. Quality Management: Controlling the quality of deliverables
+1. Communications Management: Controlling all team and stakeholder communications
+1. Procurement Management: Controlling procurements
+1. Stakeholder Management: Controlling stakeholder engagements
 5. **Closing**
-  1. Integration Management: Closing all phases of the project
-  2. Procurement Management: Closing all project procurements
+1. Integration Management: Closing all phases of the project
+1. Procurement Management: Closing all project procurements
 
-[1](#sdfootnote1anc)[https://scrumguides.org/scrum-guide.html#product-owner](https://scrumguides.org/scrum-guide.html#product-owner)
+[^1]: ~~1<https://scrumguides.org/scrum-guide.html#product-owner>~~
